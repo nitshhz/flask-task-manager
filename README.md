@@ -90,9 +90,6 @@ after-adding-tasks.png
 
 after-deleting-a-task.png
 
-> 📌 **Note:**
-> If your image filenames are different, replace `home_empty.png`, `tasks_added.png`, and `task_deleted.png` with your actual filenames.
-
 ---
 
 ## 📌 What I Learned
