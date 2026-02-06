@@ -80,15 +80,15 @@ http://127.0.0.1:5000
 
 ### 🏠 Home Page (Empty)
 
-![Home Page Empty](./home_empty.png)
+Screenshot 2026-02-07 000137.png
 
 ### ➕ After Adding Tasks
 
-![Tasks Added](./tasks_added.png)
+Screenshot 2026-02-07 000357.png
 
 ### 🗑️ After Deleting a Task
 
-![Task Deleted](./task_deleted.png)
+Screenshot 2026-02-07 000402.png
 
 > 📌 **Note:**
 > If your image filenames are different, replace `home_empty.png`, `tasks_added.png`, and `task_deleted.png` with your actual filenames.
